@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="构造函数的初始化列表例题.cpp">
+    <ClCompile Include="面向对象模型的探讨.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
